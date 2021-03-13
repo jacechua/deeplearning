@@ -1,2 +1,2 @@
-# deeplearning-ai
+# DeepLearning-AI
 deeplearning.ai
