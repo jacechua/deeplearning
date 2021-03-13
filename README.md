@@ -1,2 +1,2 @@
-# deeplearning
-https://www.deeplearning.ai
+# deeplearning-ai
+deeplearning.ai
